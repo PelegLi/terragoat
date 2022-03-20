@@ -1,5 +1,8 @@
-django==1.2.0
+--85580fa45978fbaa4a665a8527051085
+Content-Disposition: form-data; name="form_field_name"; filename="requirements.txt"
+
+django==2.2.24
 flask~=0.12.3
-pyjwt==1.5.0
 requests>=1.2.0
 boto3==1.4.4
+--85580fa45978fbaa4a665a8527051085--
